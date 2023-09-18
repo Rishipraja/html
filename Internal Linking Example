@@ -1,0 +1,17 @@
+<html>
+<head>
+<title>Internal Linking Example</title>
+</head>
+<body>
+<h1 align=centain>My Book</h1>
+<p> My Book contain the following heading </p>
+<p><a href="#headlign 1">Link to headline 1 </a></p>
+<p><a href="#headling 2">Link to headline 2 </a></p>
+<h2 id="headling 1"align=center>heading 1</h2>
+<p>The text is here </p>
+<p> The text is here</p>
+<h2 id="headling2"align=center>heading2</h2>
+<p>The text is here </p>
+<p>The text is here </P>
+</body>
+</html> 
