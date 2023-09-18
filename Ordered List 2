@@ -1,0 +1,17 @@
+<html>
+<head>
+<title> Ordered List </title>
+</head>
+<body>
+<center><u><b>Ordered List Example </b><u></center>
+<ol type="1"><b> Ordered List </b>
+<li>Eggs</li>
+<li>Milk</li>
+<li>Juce</li>
+</ol>
+<ol type="A"><b>Ordered List 2:</b>
+<li>Mango</li>
+<li>Apple</li>
+</ol>
+</body>
+</html>
