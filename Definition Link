@@ -1,0 +1,15 @@
+<html>
+<head>
+<title> Definition List </title>
+</head>
+<body>
+<center>
+<u><b>Definition List </u></b>
+</center>
+<dl>
+<dt><b>Term A </b>
+<dd> Definition </b>
+<dt><b> Term B </b>
+<dd> Definition </dd>
+</dl>
+</html>
